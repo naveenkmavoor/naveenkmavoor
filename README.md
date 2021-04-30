@@ -1,8 +1,8 @@
 # Hi, I am Naveen K 👋
 
-[![Twitter Link](https://img.shields.io/twitter/NavDevLife?color=1DA1F2&label=%40NavDevLife&logo=Twitter&style=flat)](https://twitter.com/NavDevLife)
- 
-[![Linkedin Badge](https://img.shields.io/badge/naveen?color=1DA1F2&style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-k97)](https://www.linkedin.com/in/naveen-k97) 
+
+[<img src="https://raw.githubusercontent.com/Naveenmavoor/Naveenmavoor/master/linkedin.png" height="35em" align="center" alt="Follow Naveen K on LinkedIn" title="Follow Naveen K on LinkedIn"/>](https://linkedin.com/in/naveen-k97)
+[<img src="https://raw.githubusercontent.com/Naveenmavoor/Naveenmavoor/master/twitter.svg" height="40em" align="center" alt="Follow Naveen K on Twitter" title="Follow Naveen K on Twitter"/>](https://twitter.com/NavDevLife)
  
 ### About me
 
