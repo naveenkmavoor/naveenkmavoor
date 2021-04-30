@@ -1,7 +1,7 @@
 # Hi, I am Naveen K 👋
 
 
-[<img src="https://raw.githubusercontent.com/Naveenmavoor/Naveenmavoor/master/linkedin.png" height="30em" align="center" alt="Follow Naveen K on LinkedIn" title="Follow Naveen K on LinkedIn"/>](https://linkedin.com/naveen-k97)
+[<img src="https://raw.githubusercontent.com/Naveenmavoor/Naveenmavoor/master/linkedin.png" height="30em" align="center" alt="Follow Naveen K on LinkedIn" title="Follow Naveen K on LinkedIn"/>](https://linkedin.com/in/naveen-k97)
 [<img src="https://raw.githubusercontent.com/Naveenmavoor/Naveenmavoor/master/twitter.svg" height="40em" align="center" alt="Follow Naveen K on Twitter" title="Follow Naveen K on Twitter"/>](https://twitter.com/NavDevLife)
  
 ### About me
